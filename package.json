@@ -1,0 +1,28 @@
+{
+  "name": "dz",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src __tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excessu69/dz_advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/excessu69/dz_advanced/issues"
+  },
+  "homepage": "https://github.com/excessu69/dz_advanced#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "babel-jest": "^30.0.5",
+    "eslint": "^9.33.0",
+    "jest": "^30.0.5"
+  }
+}
